@@ -1,0 +1,12 @@
+compressed data algo :
+xz compressed data
+
+zImage Version :
+1504          0x5E0           Linux kernel ARM boot executable zImage (little-endian)
+200047600     0xBEC7BF0       Linux kernel ARM boot executable zImage (little-endian)
+
+squash fs :
+8914748       0x88073C        Squashfs filesystem, little endian, version 4.0, compression:gzip (non-standard type definition), size: 168992914 bytes, 18608 inodes, blocksize: 131072 bytes, created: 2011-04-05 23:00:00
+177911912     0xA9AB868       Squashfs filesystem, little endian, version 4.0, compression:gzip, size: 21840000 bytes, 1374 inodes, blocksize: 131072 bytes, created: 2011-04-05 23:00:00
+199756180     0xBE80994       Squashfs filesystem, little endian, version 4.0, compression:gzip, size: 286999 bytes, 2 inodes, blocksize: 131072 bytes, created: 2011-04-05 23:00:00
+
